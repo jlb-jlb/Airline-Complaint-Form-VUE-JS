@@ -1,12 +1,4 @@
 <template>
-  <!-- TODO: implement me -->
-<!--  &lt;!&ndash;  implement a form consisting of the 5 required input fields. Assign the following IDs accordingly so that the automated tests can successfully run through-->
-<!--  can run successfully: #flight-number, #email-address, #flight-date, #flight-time and-->
-<!--  #bank-iban. In the ComplaintForm.vue component, the data fields flightNumber,-->
-<!--  emailAddress, flightDate, flightTime and bankIban are already predefined. You need to use these fields as v-models for the corresponding input fields to run the automated tests.-->
-<!--  If the data field formSubmitted is set to true, all input fields are to be checked for correctness.-->
-<!--  correctness. Fields whose inputs are valid get the class is-valid-->
-<!--  and the class is-invalid in the opposite case.-->
   <div class="container">
     <div class="card opacity-75 bg-light">
       <div class="card-body">
